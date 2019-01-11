@@ -1,3 +1,49 @@
-, 'word', 'type', 'article', 'plural', 'Präteritum', 'Partizip Perfekt'
-0, 'Baum', 'noun', 'der', 'Bäume', '', ''
-1, 'arbeiten', 'verb', '', '', 'arbeitete', 'gearbeitet'
+word,type,plural,Präteritum,Partizip,transl_en,trans_it
+der Baum,noun,die Bäume,nan,nan,tree,albero
+die Heimat,noun,die Heimaten,nan,nan,home,casa
+das Heimatland,noun,die Heimatländer,nan,nan,homeland,patria
+der Verwandte,noun,die Verwandten,nan,nan,relative,parente
+das Zitate,noun,die Zitate,nan,nan,quatation,citazione
+der Zufall,noun,die Zufälle,nan,nan,accident,incidente
+das Vorurteil,noun,die Vorurteile,nan,nan,prejudice,pregiudizio
+der Husten,noun,die Husten,nan,nan,cough,tosse
+der Schnupfen,noun,die Schnpufen,nan,nan,cold,raffreddore
+der Gang,noun,die Gänge,nan,nan,meal,portata
+das Geschenk,noun,die Geschenke,nan,nan,present,regalo
+das Lied,noun,die Lieder,nan,nan,song,canzone
+das Licht,noun,die Lichter,nan,nan,light,luce
+die Beleuchtung,noun,die Beleuchtungen,nan,nan,illumination,illuminazione
+das Vorstellungsgespräch,noun,nan,nan,nan,job interview,colloquio
+die Einweihnungsparty,noun,nan,nan,nan,housewarming party,festa di inaugurazione
+der Vorteil,noun,die Vorteile,nan,nan,advantage,vantaggio
+der Nachteil,noun,die Nachteile,nan,nan,disadvantage,svantaggio
+die Verpackung,noun,die Verpackungen,nan,nan,packaging,imballaggio
+die Schachtel,noun,die Schachteln,nan,nan,box,scatola
+das Lieblingsessen,noun,die Lieblingsessen,nan,nan,favourite food,cibo preferito
+die Geduld,noun,nan,nan,nan,patience,pazienza
+der Tintenfisch,noun,die Tintenfische,nan,nan,squid,calamaro
+arbeiten,verb,nan,arbeitete,gearbeitet,to work,lavorare
+gelingen,verb,nan,gelang,gelungen,to succed,riuscire
+anliegen,verb,nan,lag an,angelegen,to fit,calzare
+scheinen,verb,nan,schien,geschienen,to seem,sembrare
+unterstützen,verb,nan,unterstützte,unterstützt,to support,sostenere
+herumfahren,verb,nan,fuhr herum,herumgefahren,to drive around,guidare
+beobachten,verb,nan,beobachtete,beobachtet,observe,osservare
+verurteilen,verb,nan,verurteilte,verurteilt,to condemn,condannare
+erwarten,verb,nan,erwartete,erwartet,to expect,aspettarsi
+überzeugen,verb,nan,überzeugte,überzeugt,to convince,convincere
+betreuen,verb,nan,betreute,betreut,to take care of,curarsi
+überleben,verb,nan,überlebte,überlebt,survive,sopravvivere
+sich einleben,verb,nan,lebte ein,eingelebt,to settle in,acclimatarsi
+von jmdm/etw abhängen,verb,nan,hängte ab,abgehängt,to depend on,dipendere da
+bereuen,verb,nan,bereute,bereut,to regret,rammaricarsi di
+schätzen,verb,nan,schätzte,geschätzt,to appreciate,apprezzare
+kennenlernen,verb,nan,lernte kennen,kennengelernt,to meet someone,incontrare qualcuno
+ziemlich,adverb,nan,nan,nan,quite,abbastanza
+zufällig,adverb,nan,nan,nan,accidentally,accidentalmente
+aufregend,adjective,nan,nan,nan,exciting,eccitante
+spannend,adjective,nan,nan,nan,exciting,emozionante
+hochnäsig,adjective,nan,nan,nan,stuck-up,altezzoso
+locker,adjective,nan,nan,nan,easy,tranquillo
+stolz,adjective,nan,nan,nan,proud,orgoglioso
+schlau,adjective,nan,nan,nan,clever,intelligente
